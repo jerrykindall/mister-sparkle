@@ -1,5 +1,9 @@
 # Mister Sparkle
 
+### An experiment in preserving engaging prose across languages
+
+> Preserving meaning while maintaining voice
+
 Documentation that people enjoy reading often has a distinct voice: rhythm, well-chosen idiom, concrete examples, and sometimes humor. The approach isn't suitable for all kinds of technical content. But when it supports the content, that voice is kind of a superpower. Engaged readers are much more likely to keep going even when the material is dry or challenging.
 
 Those same engaging qualities can make documentation hard to translate and difficult for some readers to understand. Machine translation systems are better than they were, but they can still struggle with source-language-specific idiom, tone, and cultural context.
