@@ -93,7 +93,7 @@ I'm looking for bilingual volunteers to evaluate translation effectiveness. Plea
 
 I'm Jerry Kindall, an experienced technical communicator (formerly with AWS, Snowflake, and Microsoft) engaging with AI to improve the effectiveness of technical documents.
 
-Another of my projects is Charlie, a restricted English dialect intended for writing more reliable AI prompts and skills while preserving readability. We might use Charlie concepts in our Mister Sparkle prompting.
+Another of my projects is [Charlie](../charlie-project/), a restricted English scheme intended for writing more reliable AI prompts and skills while preserving readability. We might use Charlie concepts in our Mister Sparkle prompting.
 
 ## The name
 
